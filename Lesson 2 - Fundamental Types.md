@@ -13,16 +13,6 @@ Introduce children to the basic data types in C++ and give them a visual underst
 
 ---
 
-#### **Materials Required:**
-- Computer or laptop with a C++ IDE installed (e.g., Code::Blocks)
-- Projector or screen (if teaching in a classroom)
-- Whiteboard and markers
-- Small boxes (to represent memory allocation)
-- Printed handouts with a summary of data types and their sizes
-- Stickers or small rewards for participation
-
----
-
 #### **Lesson Breakdown:**
 
 ---
@@ -96,8 +86,6 @@ Introduce children to the basic data types in C++ and give them a visual underst
 #### **Note to Instructor:**
 
 This lesson uses tangible and visual aids (boxes) to represent abstract concepts (memory allocation). Make sure to keep the atmosphere playful and engaging. When teaching foundational concepts to young learners, repetition and analogies make the learning experience more relatable and memorable.
-
-Certainly! Here's a list of some common C++ data types and their typical memory allocation in terms of bytes and bits. Remember, the actual size might vary depending on the compiler and the machine architecture, but the values provided are common for many systems:
 
 | Data Type  | Typical Size (bytes) | Typical Size (bits) |
 |------------|----------------------|---------------------|
