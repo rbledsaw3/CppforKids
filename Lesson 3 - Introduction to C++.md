@@ -55,8 +55,6 @@ Introduce children to the basic concepts of C++ programming in a fun, engaging, 
    ```cpp
    #include<iostream>
    
-   using namespace std;
-   
    int main() {
        // Your code goes here
        return 0;
@@ -66,7 +64,6 @@ Introduce children to the basic concepts of C++ programming in a fun, engaging, 
    b. Explain each part in simple terms, likening it to parts of a story:
 
    - `#include<iostream>`: "This is like telling the computer which tools we'll be using. Think of it as grabbing a toy from your toy box."
-   - `using namespace std;`: "This is a shortcut so we don't have to type as much."
    - `int main() { ... }`: "This is where our story begins and ends. Everything we want to do will be inside these curly braces."
 
 ---
@@ -76,7 +73,7 @@ Introduce children to the basic concepts of C++ programming in a fun, engaging, 
    a. Add the following line inside the `main()` function:
    
    ```cpp
-   cout << "Hello, World!" << endl;
+   std::cout << "Hello, World!" << std::endl;
    ```
    
    b. Compile and run. Show the output on the screen.
@@ -113,8 +110,4 @@ Introduce children to the basic concepts of C++ programming in a fun, engaging, 
    
    a. Allow children to ask any questions they have about what they learned today.
 
----
 
-#### **Note to Instructor:**
-
-Children in this age group learn best through engagement, repetition, and visual aids. Making analogies and comparisons to things they're familiar with will help concepts stick. Also, always keep the atmosphere light and fun!++
