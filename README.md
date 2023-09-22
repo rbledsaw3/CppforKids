@@ -12,10 +12,6 @@ This repo is where I'm dumping my lesson plans as I go through teaching my child
 
 **Lesson 3** - Introduction to C++
 
----
-Todo:
-
-
 **Lesson 4** - Understanding Variables
 
 **Lesson 5** - The Power of Constants
@@ -23,6 +19,10 @@ Todo:
 **Lesson 6** - Simple Arithmetic in C++
 
 **Lesson 7** - Introduction to Input and Output
+
+---
+Todo:
+
 
 **Lesson 8** - Making Decisions with If-Else
 
